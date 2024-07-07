@@ -1,1 +1,1 @@
-# EEG-Classification--based-analysis-of-brain-connectivity-in-schizophrenia
+# EEG-Classification--based-analysis-of-brain-connectivity-in-schizophrenia-(Machine-Learning)
